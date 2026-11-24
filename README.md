@@ -1,3 +1,4 @@
+
 # ATK-VXE-R1/R1SE+/R1PRO/F1 and OP1 -Fingertip-mod
 Fingertip Mouse mod for the ATK VXE R1SE+/R1PRO PCB, featuring a flared pinky rest for a relaxed grip. Read through the whole README before starting.
 Added F1 Pro PCB and OP1 PCB support. (F1 is missing side button)
@@ -41,8 +42,12 @@ Last but not least, mount the main buttons and screw them in. Congratulations, y
 
 <img width="4032" height="3024" alt="Finished mouse" src="https://github.com/user-attachments/assets/60a959a0-d391-4516-a68d-f6b0743866a8" />
 <img width="2880" height="3840" alt="jm06fm10nnvh1" src="https://github.com/user-attachments/assets/61a3a0f3-b6d5-493f-b168-1151ef0c82a5" />
-
-
+OP1:
+<img width="903" height="929" alt="OP1_withoutButton" src="https://github.com/user-attachments/assets/b7392d46-73c5-403b-80f4-ff8584580e10" />
+<img width="2160" height="3840" alt="mod_op1" src="https://github.com/user-attachments/assets/7c62dd8a-1280-4491-94f5-a0af387a4076" />
+F1 without sidebutton
+<img width="820" height="765" alt="VGNF1Pro" src="https://github.com/user-attachments/assets/82e92c15-c321-4cc2-8ca5-9f25139b764e" />
+<img width="2160" height="3840" alt="mod_f1" src="https://github.com/user-attachments/assets/c2d7103a-eed0-48f3-974e-7261e0371b69" />
 
 ## Notes
 - I printed my mouse out of PLA using a Bambu Lab P1S with 0.2mm layer height and standard settings. R1 Pro depicted in the pictures has been printed with PA12. 
